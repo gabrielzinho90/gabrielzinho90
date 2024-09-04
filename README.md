@@ -11,6 +11,8 @@ Software engineering and development student.
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielzinho90&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielzinho90)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies that I use in my daily life
 
 <div style="display: inline_block"><br/>
